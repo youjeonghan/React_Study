@@ -6,6 +6,6 @@ function Hello({ color, name, isSpecial }) {
             {isSpecial ? <b>*</b> : null}
             안녕하세요~{name}
         </div>
-    )
+    );
 }
 export default Hello;
