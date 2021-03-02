@@ -2,13 +2,9 @@ import React from 'react';
 import Hello from './Hello';
 
 function App() {
-  return (
-   <div>
-       <Hello />
-       <Hello />
-       <Hello />
-   </div>
-  );
+    return (
+        <Hello name="유정란" />
+    );
 }
 
 export default App;

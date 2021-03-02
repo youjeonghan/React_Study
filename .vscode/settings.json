@@ -1,0 +1,5 @@
+{
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe"
+    // C:\Program Files\Git\bin
+    // "terminal.external.windowsExec": "C:\\windows\\System32\\cmd.exe"
+}
